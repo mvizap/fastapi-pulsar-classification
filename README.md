@@ -42,7 +42,8 @@ Para ejecutar la API en el puerto 8080, sigue los siguientes pasos:
 ![get-pulsar](https://github.com/mvizap/pulsar-classification-fastapi/assets/26266422/a940bab0-6367-47e6-b22d-f5c4ad7640a0)
 ![put-pulsar](https://github.com/mvizap/pulsar-classification-fastapi/assets/26266422/f537cf4d-984c-431e-9707-accc18cf2b60)
 ![delete-pulsar](https://github.com/mvizap/pulsar-classification-fastapi/assets/26266422/ae233f58-0cc1-4b55-8dce-91d87ee54704)
-![put-pulsar](https://github.com/mvizap/pulsar-classification-fastapi/assets/26266422/9b9c045a-e90c-49e8-913d-3d10dd8c155f)
+![predict-pulsar](https://github.com/mvizap/pulsar-classification-fastapi/assets/26266422/5269e152-671b-4810-9775-0c4b23baf151)
+
 
 
    
